@@ -1,1 +1,1 @@
-# tecmundo-site-cover
+# Tecmundo site cover
